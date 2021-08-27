@@ -1,0 +1,10 @@
+c:\users\christian\documents\visual studio 2012\Projects\Clock\Clock\bin\Release\Clock.exe.config
+c:\users\christian\documents\visual studio 2012\Projects\Clock\Clock\bin\Release\Clock.exe
+c:\users\christian\documents\visual studio 2012\Projects\Clock\Clock\bin\Release\Clock.pdb
+c:\users\christian\documents\visual studio 2012\Projects\Clock\Clock\obj\Release\Clock.exe
+c:\users\christian\documents\visual studio 2012\Projects\Clock\Clock\obj\Release\Clock.pdb
+c:\users\christian\documents\visual studio 2012\Projects\Clock\Clock\bin\Release\Clock.exe.manifest
+c:\users\christian\documents\visual studio 2012\Projects\Clock\Clock\bin\Release\Clock.application
+c:\users\christian\documents\visual studio 2012\Projects\Clock\Clock\obj\Release\Clock.exe.manifest
+c:\users\christian\documents\visual studio 2012\Projects\Clock\Clock\obj\Release\Clock.application
+C:\Users\christian\Documents\Visual Studio 2012\Projects\Clock\Clock\obj\Release\Clock.csprojResolveAssemblyReference.cache

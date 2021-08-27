@@ -1,0 +1,9 @@
+c:\users\christian\documents\visual studio 2012\Projects\Clock\Clock\bin\Debug\Clock.exe.config
+c:\users\christian\documents\visual studio 2012\Projects\Clock\Clock\bin\Debug\Clock.exe
+c:\users\christian\documents\visual studio 2012\Projects\Clock\Clock\bin\Debug\Clock.pdb
+c:\users\christian\documents\visual studio 2012\Projects\Clock\Clock\obj\Debug\Clock.exe
+c:\users\christian\documents\visual studio 2012\Projects\Clock\Clock\obj\Debug\Clock.pdb
+C:\Users\christian\Documents\Visual Studio 2012\Projects\Clock\Clock\bin\Debug\Clock.exe.manifest
+C:\Users\christian\Documents\Visual Studio 2012\Projects\Clock\Clock\bin\Debug\Clock.application
+C:\Users\christian\Documents\Visual Studio 2012\Projects\Clock\Clock\obj\Debug\Clock.exe.manifest
+C:\Users\christian\Documents\Visual Studio 2012\Projects\Clock\Clock\obj\Debug\Clock.application
